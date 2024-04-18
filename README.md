@@ -29,4 +29,4 @@
  
 
 ## Автор
-Автор: [Евгений Чичин]
+Евгений Чичин [GitHub](https://github.com/EvgeniiChichin/)
